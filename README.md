@@ -110,12 +110,19 @@ Demonstrates strong multilingual generalization with efficient student-only infe
 ## 🗂 Repository Structure
 .
 ├── CS445_Data_Preprocessing&Generation_Pipeline.ipynb
+
 ├── CS445_Translation_Pipeline_P{0-4}_S{0-1}.ipynb
+
 ├── Teacher_Training_Pipeline.ipynb
+
 ├── Teacher_logits_generation_Pipeline.ipynb
+
 ├── Student_Training_Pipeline.ipynb
+
 ├── CS445_Submission.ipynb
+
 ├── master_with_teacherA_logits.csv
+
 └── README.md
 
 ---
@@ -136,5 +143,6 @@ Full bibliography is available in the project report.
 
 ## 📝 License
 This repository is released for **academic and research use only**.
+
 
 
